@@ -1,5 +1,6 @@
 {
-  "name": "graphiques-digitale/silverstripe-seo-authorship",
+  "name": "graphiques-digitale/silverstripe-seo-google-plus-authorship",
+  "replace": { "graphiques-digitale/silverstripe-seo-authorship": "*" },
   "description": "Authorship module for the SilverStripe framework",
   "type": "silverstripe-module",
   "homepage": "https://github.com/Graphiques-Digitale/silverstripe-seo-icons",
